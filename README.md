@@ -24,3 +24,35 @@
 
 ![Page Screenshot](./images/passgenerator%20starter%20view.png)
 ![Page Screenshot](./images/passgenerator%20with%20password.png)
+
+## Credits
+
+-   Tutors and TA's
+
+## License
+
+-   MIT
+
+## Badges
+
+![Badge for GitHub repo count of languages](https://img.shields.io/github/languages/count/djpdim/passgenerator?style=flat&logo=appveyor)
+![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/djpdim/passgenerator?style=flat&logo=appveyor)
+![Badge for GitHub last commit](https://img.shields.io/github/last-commit/djpdim/passgenerator?style=flat&logo=appveyor)
+![Badge for GitHub Code Size](https://img.shields.io/github/languages/code-size/djpdim/passgenerator?style=flat&logo=appveyor)
+![Badge for GitHub Repo Size](https://img.shields.io/github/repo-size/djpdim/passgenerator?style=flat&logo=appveyor)
+![Badge for GitHub Total Lines](https://img.shields.io/tokei/lines/github/djpdim/passgenerator?style=flat&logo=appveyor)
+
+Check out the badges hosted by [shields.io](https://shields.io/).
+
+## Features
+
+<img src="https://img.shields.io/github/followers/djpdim?style=social" alt="Followers" />
+
+## Questions
+
+For any questions, please contact me to the informations below:
+
+-   GitHub: [djpdim](https://github.com/djpdim)
+-   Email: [dimospagkas@yahoo.gr](mailto:dimospagkas@yahoo.gr)
+
+[Top](#description)
