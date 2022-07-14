@@ -24,8 +24,8 @@
 
 ### Page Image
 
-![Page Screenshot](./images/passgenerator%20starter%20view.png)
-![Page Screenshot](./images/passgenerator%20with%20password.png)
+<img src="./images/passgenerator%20starter%20view.png" width="800" height="400" />
+<img src="./images/passgenerator%20with%20password.png" width="800" height="400" />
 
 ## Credits
 
