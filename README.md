@@ -1,5 +1,7 @@
 # Password Generator
 
+# Description
+
 ## This is a password generator that will generate a random password depending on user choise.
 
 ### How to use
